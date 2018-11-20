@@ -1,0 +1,1 @@
+C:\Users\quang\Downloads\aspnet-core-react-template\api\obj\Debug\netcoreapp2.1\api.csprojAssemblyReference.cache
